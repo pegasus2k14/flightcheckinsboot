@@ -8,9 +8,9 @@
 </head>
 <body>
   Check in completed Successfully!<br/>
-  Reservation Id: ${reservation.id} 
-  Passenger Name: ${reservation.passengerId.firstName} ${reservation.passengerId.lastName}
-  Flight number: ${reservation.flightId.flightNumber}
+  Reservation Id: ${reservation.id} <br/>
+  Passenger Name: ${reservation.passengerId.firstName} ${reservation.passengerId.lastName}<br/>
+  Flight number: ${reservation.flightId.flightNumber}<br/>
   
   
 </body>

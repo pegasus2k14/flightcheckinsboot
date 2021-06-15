@@ -12,6 +12,7 @@
   Flight number: ${reservation.flightId.flightNumber}<br/>
   Departure city: ${reservation.flightId.departureCity}<br/>
   Arrival city: ${reservation.flightId.arrivalCity}<br/>
+  Date of Departure: ${reservation.flightId.dateOfDeparture}<br/>
   Estimated Departure time: ${reservation.flightId.estimatedDepartureTime}<br/>
   
   <h2>Passenger Details</h2>
@@ -24,7 +25,7 @@
      
      <input type="hidden" value="${reservation.id}" name="reservationId">
      
-     Enter number ob bags to checkin: <input type="text" name="numberOfBags"/>
+     Enter number of bags to checkin: <input type="text" name="numberOfBags"/>
      <input type="submit" value="Check In">
   </form>
 </body>
