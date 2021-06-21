@@ -1,1 +1,1 @@
-##Esta Aplicacion de registro de Vuelos consumira los servicios provistos por la aplicacion FlightReservation
+##Esta Aplicacion de registro de Vuelos consumira los servicios provistos por la aplicacion Spring Restful FlightReservation (que se ocupa de la gestion de reservaciones) alojada en este mismo repositorio
